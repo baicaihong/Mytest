@@ -1,4 +1,0 @@
-# Mytest
-hello
-hi 
-nihao
